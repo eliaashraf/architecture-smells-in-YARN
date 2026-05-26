@@ -1,6 +1,4 @@
-# architecture-smells-in-YARN
-
-## Architectural and Design Smell Analysis Dataset for Hadoop YARN Issues
+# Architectural and Design Smell Analysis Dataset for Hadoop YARN Issues
 
 This repository contains the architectural and design smell analysis results for a set of Hadoop YARN issues.  
 The smells were detected using the tool Designite and analyzed across parent-child commit pairs to identify smell evolution.
